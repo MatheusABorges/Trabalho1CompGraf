@@ -2,7 +2,7 @@
 -Utilizei produto interno para fazer os testes de intersceção nos polígonos.
 
 -Optei por implementar a rasterização de círculos utilizando triangulação, dessa forma,
-caso deseje alterar o número de triângulos em que o círculo será dividido, basta alterar
+caso queira alterar o número de triângulos em que o círculo será dividido, basta alterar
 a constante trianglesNumber. O valor 30 me pareceu funcionar bem e valores mais altos
 não dão um resultado bom.
 
